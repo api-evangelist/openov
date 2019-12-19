@@ -1,0 +1,35 @@
+{
+    "name": "openOV",
+    "description": "<p>openOV is a Dutch service that provides app builders with access to current travel information from GOVI, a group that provides travel information for the digital panels at transit stops in the Netherlands. openOV exposes this information to its users via APIs so that developers can integrate it into route planners and similar apps. The openOV website is provided solely in Dutch.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/openov-logo-2.png",
+    "tags": [
+        "have api",
+        "netherlands"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "openOV",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/openov-logo-2.png",
+            "humanURL": "http:\/\/www.openov.nl\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/openOV"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.openov.nl\/"
+        }
+    ]
+}
